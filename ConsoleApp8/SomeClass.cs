@@ -8,5 +8,6 @@ namespace ConsoleApp8
 {
     class SomeClass
     {
+        void Pomnozi();
     }
 }
